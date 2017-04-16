@@ -1,6 +1,6 @@
 # PHP Quizzer
 
-Quizzer is a simple PHP/MySQL based quiz engine. it uses multiple choices and admins can create new quizes from within the browser
+Quizzer is a simple PHP/MySQL based quiz engine. It uses multiple choices and admins can create new quizes from within the browser
 
 * Features/Technologies: 
   * PHP Syntax, PHPMyAdmin
@@ -16,9 +16,17 @@ Quizzer is a simple PHP/MySQL based quiz engine. it uses multiple choices and ad
 
 ## Snapshots
   
- **Home - View All Shouts** | 
+ **Home** | 
 --- |
- ![alt text](https://github.com/Jyotsna-Singh/PHP-ShoutBox/blob/master/img/shout.PNG)   |
+ ![alt text](https://github.com/Jyotsna-Singh/PHP-Quizzer/blob/master/img/home.PNG)   |
+ 
+ **Questions** | 
+--- |
+ ![alt text](https://github.com/Jyotsna-Singh/PHP-Quizzer/blob/master/img/quiz1.PNG)   |
+ 
+ **Results** | 
+--- |
+ ![alt text](https://github.com/Jyotsna-Singh/PHP-Quizzer/blob/master/img/done.PNG)   |
   
 
 
