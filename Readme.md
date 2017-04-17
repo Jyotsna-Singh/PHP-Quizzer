@@ -11,8 +11,8 @@ Quizzer is a simple PHP/MySQL based quiz engine. It uses multiple choices and ad
 ## Version
 1.0
 
-## Live Demo
- [Quizzer](http://jyotsna-singh-com.stackstaging.com/projects/php/Quizzer/)
+## Live Demo - PHP Quizzer
+ [![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/green-button.PNG)](http://jyotsnasingh.com/projects/php/Quizzer/)
 
 ## Snapshots
   
